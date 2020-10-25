@@ -1,10 +1,12 @@
 
-SpringBoot Application integrates Basic Authentication(i.e. Username and password)
+This SpringBoot Application integrates Basic Authentication(i.e. Username and password)
  and OAuth2(i.e.Google SignIn).
  
 JWT token is generated upon successful login. 
 
 Secured resources (apis) can be accessed by using JWT. 
+
+[Front-end respository](https://github.com/pratsonii/AngularBasicAndOAuth2)
 
 ----------
 
