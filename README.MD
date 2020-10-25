@@ -12,11 +12,11 @@ Secured resources (apis) can be accessed by using JWT.
 
 **OAuth URL** : http://localhost:8080/oauth/autherization/google
 
-(Above url will be called from UI 'Google Sign In' button)
+(Above url will be called from UI on click of 'Google Sign In' button)
 
 (/oauth/autherization is mapped in SecurityConfig file. This can be anything you want.)
 
-(Multiple OAuth servers i.e Github or Facebook can be mapped. Just change URL : http://localhost:8080/oauth/autherization/facebook)
+(Multiple OAuth servers i.e Github or Facebook can be mapped. URL to be called from UI : http://localhost:8080/oauth/autherization/facebook)
 
 
 **H2 Console** : http://localhost:8080/h2-console
